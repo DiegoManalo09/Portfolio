@@ -31,7 +31,7 @@ export default function ProjectsPage() {
     {
       title: 'Default Analysis',
       description: 'Analyzing Default Trends using LendingClub\'s Loan Portfolio through Excel & creating a visual dashboard using Google Looker Studio',
-      link: 'https://lookerstudio.google.com/u/0/reporting/628d8203-4ee3-4679-80f9-4652d98b13b0/page/92DVF',
+      link: 'https://drive.google.com/drive/folders/1abKLvkvPEFCU8YxbD_G77TtY6Ak_acdJ',
       github: 'https://drive.google.com/drive/folders/1abKLvkvPEFCU8YxbD_G77TtY6Ak_acdJ',
       tech: ['Excel', 'Looker Studio'],
       status: 'Live'
